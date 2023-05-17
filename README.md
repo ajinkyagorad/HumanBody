@@ -6,7 +6,7 @@ This project simulates a human body using a Python class. Code is generated usin
 
  ![Human Body Flowchart](img/human_body_flowchart.png)
 
- # Human Emotions
+ # Human Sensory and Emotions
  
  ![Human Emotions Mindmap](img/sensory_emotions_mindmap.png)
 
