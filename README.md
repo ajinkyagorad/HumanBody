@@ -106,7 +106,109 @@ graph TB
   linkStyle 13 stroke:#2ecd71,stroke-width:2px;
   linkStyle 14 stroke:#2ecd71,stroke-width:2px;
 ```
-
+## Human body Ailments
+```mermaid
+mindmap
+  root((Human Body))
+    Cardiovascular System
+      Heart
+      ::icon(fa fa-heart)
+      Diseases
+        Heart Disease
+        Stroke
+        Hypertension
+    Respiratory System
+      Lungs
+      ::icon(fa fa-lungs)
+      Diseases
+        Asthma
+        COPD
+        Pneumonia
+    Digestive System
+      Stomach
+      ::icon(fa fa-stomach)
+      Diseases
+        GERD
+        Peptic Ulcer
+        IBS
+    Neurological System
+      Brain
+      ::icon(fa fa-brain)
+      Disorders
+        Alzheimer's
+        Parkinson's
+        Epilepsy
+    Endocrine System
+      Glands
+      ::icon(fa fa-gland)
+      Disorders
+        Diabetes
+        Thyroid Diseases
+        Osteoporosis
+    Mental Health
+      Mind
+      ::icon(fa fa-mind)
+      Disorders
+        Depression
+        Anxiety
+        Schizophrenia
+    Musculoskeletal System
+      Bones
+      ::icon(fa fa-bone)
+      Disorders
+        Arthritis
+        Back Pain
+        Osteoporosis
+    Various Organs
+      Organ
+      ::icon(fa fa-organ)
+      Cancers
+        Lung Cancer
+        Breast Cancer
+        Colon Cancer
+    Skin
+      Skin
+      ::icon(fa fa-skin)
+      Diseases
+        Acne
+        Eczema
+        Psoriasis
+    Eyes
+      Eye
+      ::icon(fa fa-eye)
+      Diseases
+        Glaucoma
+        Macular Degeneration
+        Cataracts
+    Ear, Nose, Throat
+      Ear
+      ::icon(fa fa-ear)
+      Diseases
+        Otitis Media
+        Sinusitis
+        Tonsillitis
+    Genitourinary System
+      Genitourinary
+      ::icon(fa fa-genitourinary)
+      Disorders
+        UTIs
+        Kidney Stones
+        Prostate Disorders
+    Blood
+      Blood
+      ::icon(fa fa-blood)
+      Disorders
+        Anemia
+        Hemophilia
+        Sickle Cell Disease
+    Immune System
+      Immune
+      ::icon(fa fa-immune)
+      Disorders
+        Allergies
+        Autoimmune Diseases
+        Immunodeficiency Disorders
+```
 ### In slow progress
 
 #Note : Human guided ChatGPT4 outputs.
