@@ -11,10 +11,52 @@ Note: anatomy images are taken from [https://human.biodigital.com/](https://huma
 # Human Sensory and Emotions
  
  ![Human Emotions Mindmap](img/sensory_emotions_mindmap.png)
+ 
 
 # Human needs
  
- ![Human needs](img/human_needs.png)
+```mermaid
+ classDiagram
+  class Human {
+     name: string
+     age: int
+     gender: string
+     physicalNeeds: PhysicalNeeds
+     emotionalNeeds: EmotionalNeeds
+     sensoryNeeds: SensoryNeeds
+     socialNeeds: SocialNeeds
+     updateParameters(): void
+  }
+  class PhysicalNeeds {
+     food: boolean
+     water: boolean
+     cleanAir: boolean
+     suitableTemperature: boolean
+     exercise: boolean
+  }
+  class EmotionalNeeds {
+     meditation: boolean
+     learning: boolean
+     love: boolean
+     security: boolean
+     selfEsteem: boolean
+     creativity: boolean
+  }
+  class SensoryNeeds {
+     sight: boolean
+     hearing: boolean
+     taste: boolean
+     smell: boolean
+     touch: boolean
+  }
+  class SocialNeeds {
+     interaction: boolean
+  }
+  Human --> PhysicalNeeds : has
+  Human --> EmotionalNeeds : has
+  Human --> SensoryNeeds : has
+  Human --> SocialNeeds : has
+  ```
 
 # Human disease cure
 | Disorder/Disease/Symptom | Natural Cure | Medicinal Cure |
