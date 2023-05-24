@@ -30,6 +30,8 @@ Note: anatomy images are taken from [https://human.biodigital.com/](https://huma
 | Anxiety Disorders | Stress management techniques, exercise, relaxation techniques | Psychotherapy, medications |
 | Allergies | Avoiding allergens, nasal rinse | Antihistamines, nasal steroids, allergy shots |
 
+
+```mermaid
 graph TB
   A["Virus/Bacteria"] -- "Infection" --> B["Common Cold"]
   A -- "Infection" --> C["Influenza"]
@@ -61,7 +63,7 @@ graph TB
   linkStyle 12 stroke:#2ecd71,stroke-width:2px;
   linkStyle 13 stroke:#2ecd71,stroke-width:2px;
   linkStyle 14 stroke:#2ecd71,stroke-width:2px;
-
+```
 
 ### In slow progress
 
