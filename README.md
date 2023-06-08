@@ -25,6 +25,7 @@ Note: anatomy images are taken from [https://human.biodigital.com/](https://huma
   </tr>
 </table>
 Taken from Human Biodigital
+
 # Human needs
  
 ```mermaid
