@@ -12,7 +12,19 @@ Note: anatomy images are taken from [https://human.biodigital.com/](https://huma
  
  ![Human Emotions Mindmap](img/sensory_emotions_mindmap.png)
  
-
+<table>
+  <tr>
+    <td><img src="img/sensory1.gif" alt="sensory" width = 360px height = 240px ></td>
+    <td><img src="img/sensory2.gif" alt="touch" width = 360px height = 240px ></td>
+    <td><img src="img/sensory3.gif" alt="vision" width = 360px height = 240px ></td>
+  </tr>
+  <tr>
+    <td><img src="img/sensory4.gif" alt="smell" width = 360px height = 240px ></td>
+    <td><img src="img/sensory5.gif" alt="sound" width = 360px height = 240px ></td>
+    <td><img src="img/sensory6.gif" alt="taste" width = 360px height = 240px ></td>
+  </tr>
+</table>
+Taken from Human Biodigital
 # Human needs
  
 ```mermaid
