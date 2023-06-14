@@ -152,6 +152,24 @@ mindmap
     Immune System
         Allergies, Autoimmune Diseases,         Immunodeficiency Disorders
 ```
+
+
+## Human Society
+Note: Reasoned and linked by ChatGPT4 
+'''
+|                             | Legal Rules | Social Norms | Moral and Ethical Rules | Economic Rules | Environmental Rules | Religious Rules | Rules of Reciprocity | Rules of Kinship and Marriage |
+|-----------------------------|-------------|--------------|-------------------------|----------------|---------------------|-----------------|----------------------|-------------------------------|
+| Legal Rules                 |     -       | Shapes       | Incorporates            | Formalizes     | Includes Provisions | Reflected In    |                      | Reflected In                  |
+| Social Norms                | Influenced By |     -        | Influence               | Shape          | Influenced By       | Influence       | Influence            | Shape                         |
+| Moral and Ethical Rules     | Reflected In | Shape        |     -                   | Influenced By  | Influenced By       | Shape           | Influence            |                               |
+| Economic Rules              | Formalized In | Influenced By | Influenced By           |     -          | Influenced By       |                 | Influence            | Influence                     |
+| Environmental Rules         | Enforced Through | Influenced By | Influenced By         | Influenced By  |     -               |                 |                      |                               |
+| Religious Rules             | Reflected In | Influence    | Inform                  |                |                     |     -           |                      | Influence                     |
+| Rules of Reciprocity        |             | Influence    | Influence               | Influence      |                     |                 |     -                |                               |
+| Rules of Kinship and Marriage | Reflected In | Shape        |                         | Influence      |                     | Influence       |                      |     -                         |
+
+'''
+
 ### In slow progress
 
 #Note : Human guided ChatGPT4 outputs.
