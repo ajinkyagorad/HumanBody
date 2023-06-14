@@ -168,6 +168,8 @@ Life of a human is governed by interactions within the society. Typically humans
 | Religious Rules             | Reflected In | Influence    | Inform                  |                |                     |     -           |                      | Influence                     |
 | Rules of Reciprocity        |             | Influence    | Influence               | Influence      |                     |                 |     -                |                               |
 | Rules of Kinship and Marriage | Reflected In | Shape        |                         | Influence      |                     | Influence       |                      |     -                         |
+
+
 Note: Table matrix generated, and links reasoned by ChatGPT4 
 
 
