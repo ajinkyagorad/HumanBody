@@ -155,6 +155,7 @@ mindmap
 
 
 ## Human Society
+Life of a human is governed by interactions within the society. Typically humans live in a society. Rules governing the society affect humans both positively and negatively. Factors affecting physical and mental health may stem from the rules in the society which need to be updated once in a while based on current societal state.
 Note: Reasoned and linked by ChatGPT4 
 
 |                             | Legal Rules | Social Norms | Moral and Ethical Rules | Economic Rules | Environmental Rules | Religious Rules | Rules of Reciprocity | Rules of Kinship and Marriage |
