@@ -176,3 +176,7 @@ Note: Table matrix generated, and links reasoned by ChatGPT4
 ### In slow progress
 
 #Note : Human guided ChatGPT4 outputs.
+
+
+## Another sources:
+- [3D models from Aalto](https://version.aalto.fi/gitlab/ilaakso/alvar )!
