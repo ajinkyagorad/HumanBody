@@ -179,4 +179,5 @@ Note: Table matrix generated, and links reasoned by ChatGPT4
 
 
 ## Another sources:
-- [3D models from Aalto](https://version.aalto.fi/gitlab/ilaakso/alvar )!
+- [3D models from Aalto https://version.aalto.fi/gitlab/ilaakso/alvar](https://version.aalto.fi/gitlab/ilaakso/alvar)
+- 
