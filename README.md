@@ -1,6 +1,6 @@
-﻿# Human Body Simulator
+﻿# Human Body Simulator IDEA
 
-This project simulates a human body using a Python class. Code is generated using ChatGPT4. It models basic human activities like breathing, eating, drinking, exercising, resting, excreting, and sweating. It also tracks various parameters like oxygen level, nutrient level, waste level, water level, energy level, and muscle mass.
+This project would simulate a human body using a Python class. Code is generated using ChatGPT4. It would model basic human activities like breathing, eating, drinking, exercising, resting, excreting, and sweating. It would also track various parameters like oxygen level, nutrient level, waste level, water level, energy level, and muscle mass.
 
 ![Human Body Simulation](slides.gif)
 Note: anatomy images are taken from [https://human.biodigital.com/](https://human.biodigital.com/)
