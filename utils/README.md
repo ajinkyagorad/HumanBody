@@ -1,7 +1,6 @@
 # 🌟 3D Human Voxel Data Visualization 🚀
 
 This project contains MATLAB scripts for **loading, processing, and visualizing 3D human voxel data** from **Alvar**. The dataset includes different tissues (bones, muscles, organs) and is rendered in **high-speed 3D visualization** with GPU acceleration! 💻✨
-
 ---
 
 ## 📂 **Setup & Data Source**
@@ -43,7 +42,10 @@ bone_select_vis;
 visualize_tissue('muscle');   % Show muscles
 visualize_tissue('spinal_cord');   % Show spinal cord
 visualize_tissue('lung');   % Show lungs
+visualize_tissue('artery');  % Show artery
 ```
+ ![ Alver artery ](../img/artery_alvar.png)
+
 🎬 **Run for specific indices:**  
 ```matlab
 visualize_tissue([11, 17, 71]);   % Show bones
